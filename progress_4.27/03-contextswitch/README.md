@@ -11,7 +11,7 @@
 - **操作系统**：Ubuntu 20.04 LTS
 - **编译器**：riscv64-unknown-elf-gcc （RV32G 指令集）
 - **模拟器**：QEMU 6.2.0
-- **代码仓库**：`riscv-operating-system-mooc/code/os/03-contextswitch`
+- **代码仓库**：`03-contextswitch`
 
 ---
 
